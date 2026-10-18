@@ -5,7 +5,7 @@ from fastapi import FastAPI, Header, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 
 API_KEY = "ak_san8tlpy3pnjyq1qkadtwcwl"
-EMAIL = "businessmakers662@gmail.com"
+EMAIL = "24f3004648@ds.study.iitm.ac.in"
 
 app = FastAPI()
 
